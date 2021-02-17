@@ -1,0 +1,39 @@
+nav {
+    margin-top: 20px;
+    background-color:black;
+    padding: 10px;
+    font-family: Arial;
+}
+nav a{
+    color:white;
+    font-weight: bold;
+    text-decoration:none;
+    padding-right:5px;
+    border-right: 2px solid white;
+}
+.Artikel{
+    margin-top: 20px;
+    max-width: 500px;
+    font-family: Arial;
+    float:left;
+}
+
+table{
+    width: 49%;
+    border:1px solid black;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: Arial;
+}
+
+td{
+    padding:12px;
+    border:1px solid black;
+}
+td.groen{
+    background-color: #ccffcc;
+}
+td.blauw{
+    background-color: #ccffff;
+}
+

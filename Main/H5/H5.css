@@ -1,0 +1,65 @@
+body{
+    font-family: Arial;
+    background-image: url("../Images/BanaanAchtergrond.jpg");
+}
+
+.Logo{
+    float:left;
+}
+
+.Navbar {
+    font-family: Arial;
+    margin-left: 50px;
+}
+
+a {
+    float:left;
+    color: Black;
+    padding: 8px 16px;
+    max-width: 100px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #555;
+    color: Black;
+}
+
+.centertext{
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 600px;
+    height: 300px;
+    position: absolute;
+}
+.centertext2{
+    float:left;
+    margin-top: 50px;
+    width: 600px;
+    height: 300px;
+    margin-left: 250px;
+}
+
+.banaan{
+    min-height:100px;
+    min-width:600px;
+    max-height: 100px;
+    max-width: 600px;
+}
+
+.banaan2{
+    min-height: 310px;
+    min-width: 590px;
+    max-height: 310px;
+    max-width: 590px;
+}
+
+.article{
+    float: left;
+    max-width: 400px;
+    max-height: 400px;
+    margin-left: 20px;
+}
+.titel{
+    margin-left: 20px;
+}

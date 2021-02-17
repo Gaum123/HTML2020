@@ -1,0 +1,26 @@
+Table{
+    font-family: Arial;
+}
+.Vet{
+    font-weight: bold;
+    display: inline;
+}
+.text{
+    display: inline;
+}
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+.NietTitel{
+    height: 60px;
+    width: 300px;
+}
+.NietCentered{
+    text-align: unset;
+    padding-left: 20px;
+    line-height: 1.6;
+}
+.Geenregel{
+    white-space: nowrap;
+}
